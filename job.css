@@ -1,0 +1,24 @@
+.last {
+text-align: center;
+}
+Last name{
+    text-align: center;
+    font-weight: 100;
+}
+.job{
+    text-align: center;
+}
+.pincode{
+    text-align: center;
+    margin-left: 50%;
+}
+button{
+    background-color: red;
+    height: 50px;
+    width: 150px;
+   align-items: right;
+   color: white;
+}
+body{
+    background-color: blueviolet;
+}
